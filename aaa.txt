@@ -1,9 +1,0 @@
-    //int inteira =1; //inteira
-    //char letras ="b";//aceita apenas uma letra
-    //char letras2[20] ="bosta";//agora esta bosta aceita até 20 caracteres
-    //double flutuante =1.27;//1,22222222
-    //float flutuante2 =1.2;//2.2 float é menos preciso, ''encurta''
-    //bool truorfake =true;// 1 = true , 0 = false
-    //string nome="nome do q eu quiser"; //string recebe um texto maior q o char
-
-    cout<<"olá "<<vidas<<" bom dia!"<<"\n";
